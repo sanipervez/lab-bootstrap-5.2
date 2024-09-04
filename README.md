@@ -54,6 +54,7 @@ In this lab, you are given an [index.html](index.html) file that contains our we
 3. Using only bootstrap grid styles make the cookie products alternate as shown and described in the following screenshots:
 
    - On [mobile screens](screenshots/alternating-mobile-screen.png), display 1 cookie per row
+   
    - Starting on [medium `md` screens](screenshots/alternating-md-screen.png), display the cookie image and details on the same row, but alternate the order of these two on every row
    - Read about [reordering columns](https://getbootstrap.com/docs/5.2/layout/columns/#reordering) and [offsetting columns](https://getbootstrap.com/docs/5.2/layout/columns/#offsetting-columns) in the bootstrap documentation
 
